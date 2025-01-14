@@ -1,4 +1,4 @@
-# Revenue Insights in Hospitality Domain – ITC Hotels
+# Revenue Insights Dashboard for ITC Hotels
 
 ### **Project Overview**
 This project focuses on analyzing the revenue performance of **ITC Hotels** using **Power BI**. The aim is to provide actionable insights into the hospitality sector by tracking key business metrics such as occupancy rates, revenue streams, and customer trends. The dashboard empowers stakeholders to make data-driven decisions to optimize hotel performance.
