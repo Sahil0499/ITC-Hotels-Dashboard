@@ -5,6 +5,12 @@ This project focuses on analyzing the revenue performance of **ITC Hotels** usin
 
 ---
 
+### Dashboard Screenshot
+![image](https://github.com/user-attachments/assets/d57ced1f-30e2-42f6-aa3d-4a84bba357a0)
+
+
+---
+
 ### **Objective**
 The primary goal of this project is to build a comprehensive Power BI dashboard that delivers:
 - Clear insights into hotel revenue performance.
@@ -60,12 +66,6 @@ The primary goal of this project is to build a comprehensive Power BI dashboard 
 
 - **Challenge:** Creating dynamic, real-time reports.
   - **Solution:** Automated data refresh and optimized performance for faster dashboard loading.
-
----
-
-### Dashboard Screenshot
-![image](https://github.com/user-attachments/assets/d57ced1f-30e2-42f6-aa3d-4a84bba357a0)
-
 
 ---
 
