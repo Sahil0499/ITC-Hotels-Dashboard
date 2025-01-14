@@ -63,6 +63,12 @@ The primary goal of this project is to build a comprehensive Power BI dashboard 
 
 ---
 
+### Dashboard Screenshot
+![image](https://github.com/user-attachments/assets/d57ced1f-30e2-42f6-aa3d-4a84bba357a0)
+
+
+---
+
 ### **Conclusion**
 This project highlights the importance of data analytics in the hospitality industry. By leveraging Power BI, ITC Hotels can make better-informed decisions, optimize their revenue streams, and enhance overall business performance. The interactive dashboard provides a user-friendly interface to explore key metrics and insights in real-time.
 
